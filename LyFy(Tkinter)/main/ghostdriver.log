@@ -1,0 +1,22 @@
+[INFO  - 2020-10-20T18:06:10.384Z] GhostDriver - Main - running on port 49191
+[INFO  - 2020-10-20T18:06:11.135Z] Session [ef552560-12fe-11eb-8a3d-9328b9040ea6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-10-20T18:06:11.135Z] Session [ef552560-12fe-11eb-8a3d-9328b9040ea6] - page.customHeaders:  - {}
+[INFO  - 2020-10-20T18:06:11.135Z] Session [ef552560-12fe-11eb-8a3d-9328b9040ea6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-10-20T18:06:11.135Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ef552560-12fe-11eb-8a3d-9328b9040ea6
+[ERROR - 2020-10-20T18:06:18.368Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1603217178340
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-10-20T18:07:14.119Z] Session [ef552560-12fe-11eb-8a3d-9328b9040ea6] - page.onError - msg: ReferenceError: Can't find variable: cf
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-10-20T18:07:14.119Z] Session [ef552560-12fe-11eb-8a3d-9328b9040ea6] - page.onError - stack:
+  global code (https://www.azlyrics.com/lyrics/alanwalker/faded.html:360)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-10-20T18:07:14.120Z] Session [ef552560-12fe-11eb-8a3d-9328b9040ea6] - page.onError - msg: ReferenceError: Can't find variable: cf
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-10-20T18:07:14.120Z] Session [ef552560-12fe-11eb-8a3d-9328b9040ea6] - page.onError - stack:
+  global code (https://www.azlyrics.com/lyrics/alanwalker/faded.html:360)
+
+  phantomjs://platform/console++.js:263 in error
