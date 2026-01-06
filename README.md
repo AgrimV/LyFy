@@ -1,5 +1,8 @@
 # LyFy
 
+> [!WARNING]
+> Cool relic from the past straight to archive.
+
 A Python WebScraper to show the lyrics of the song being played on Spotify.
 
 It uses *dbus* library in python to access the Spotify session and asks it for the songs' info.
